@@ -6,8 +6,17 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 
 ```
 /logos
-  /png
   /svg
+    /com_fundo
+        icone_invert.svg
+        icone.svg
+        logo_invert.svg
+        logo.svg
+    /sem_fundo
+        icone_invert.svg
+        icone.svg
+        logo_invert.svg
+        logo.svg
 ```
 
 ## 🧾 Tipos de Logo
