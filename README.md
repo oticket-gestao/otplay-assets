@@ -27,14 +27,14 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 | Padrão (clara)     | `#223cc3`   | `#AEF917` | Ambientes claros, materiais digitais          |
 | Invertida (escura) | `#FFFFFF`   | `#223cc3` | Ambientes escuros, fundos com baixo contraste |
 
-> Todas as versões estão disponíveis em **SVG**, **PNG**, e **PDF** nos diretórios apropriados.
+> Todas as versões estão disponíveis em **SVG**, **PNG** nos diretórios apropriados.
 
 ## 🅰️ Tipografia
 
 - **Fonte Primária:** Inter
 - **Fonte Secundária:** Roboto
 
-Essas fontes devem ser usadas sempre que o nome do projeto for apresentado junto ao logo ou em peças institucionais.
+Essas fontes devem ser usadas sempre que o nome do projeto for apresentado junto ao logo.
 
 ## ✅ Regras de Uso
 
@@ -47,8 +47,9 @@ Essas fontes devem ser usadas sempre que o nome do projeto for apresentado junto
 ## 📬 Contato
 
 Para dúvidas, aprovações ou versões customizadas do logo, entre em contato:
-📧 contato@oticketplay.com.br
-📞 (16) 99279-3614
+
+- 📧 contato@oticketplay.com.br
+- 📞 (16) 99279-3614
 
 ---
 
