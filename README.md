@@ -29,8 +29,7 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 
 ## 🅰️ Tipografia
 
-- **Fonte Primária:** Inter
-- **Fonte Secundária:** Roboto
+- **Fonte Primária:** Gilroy
 
 Essas fontes devem ser usadas sempre que o nome do projeto for apresentado junto ao logo.
 
