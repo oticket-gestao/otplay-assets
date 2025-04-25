@@ -18,16 +18,6 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 - [Ícone.svg](./logos/svg/sem_fundo/icone.svg)
 - [Ícone Invertido.svg](./logos/svg/sem_fundo/icone_invert.svg)
 
-## 🧾 Tipos de Logo
-
-| Tipo          | Descrição                                | Indicação de uso                         |
-| ------------- | ---------------------------------------- | ---------------------------------------- |
-| Horizontal    | Logo com disposição horizontal           | Cabeçalhos de sites, materiais digitais  |
-| Vertical      | Logo empilhado ou centralizado           | Impressos, redes sociais                 |
-| Monocromático | Logo em uma só cor                       | Impressão P&B, uso sobre fundos variados |
-| Com fundo     | Logo com fundo aplicado                  | Materiais com pouco contraste            |
-| Sem fundo     | Logo com fundo transparente (PNG ou SVG) | Uso sobre qualquer fundo                 |
-
 ## 🎨 Versões de Cor
 
 | Versão             | Cor do Logo | Fundo     | Uso recomendado                               |
@@ -35,7 +25,7 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 | Padrão (clara)     | `#223cc3`   | `#AEF917` | Ambientes claros, materiais digitais          |
 | Invertida (escura) | `#FFFFFF`   | `#223cc3` | Ambientes escuros, fundos com baixo contraste |
 
-> Todas as versões estão disponíveis em **SVG**, **PNG** nos diretórios apropriados.
+> Todas as versões estão disponíveis em **SVG**.
 
 ## 🅰️ Tipografia
 
