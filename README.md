@@ -18,6 +18,11 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 - [Ícone.svg](./logos/svg/sem_fundo/icone.svg)
 - [Ícone Invertido.svg](./logos/svg/sem_fundo/icone_invert.svg)
 
+<ul>
+  <li><a href="./logos/svg/com_fundo/logo.svg" target="_blank">Logo com fundo</a></li>
+  <li><a href="./logos/svg/sem_fundo/logo.svg" target="_blank">Logo sem fundo</a></li>
+</ul>
+
 ## 🧾 Tipos de Logo
 
 | Tipo          | Descrição                                | Indicação de uso                         |
