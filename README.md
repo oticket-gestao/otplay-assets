@@ -4,20 +4,19 @@ Bem-vindo ao repositório oficial de logos e identidade visual do **OTicketPlay*
 
 ## 📁 Estrutura
 
-```
-/logos
-  /svg
-    /com_fundo
-        icone_invert.svg
-        icone.svg
-        logo_invert.svg
-        logo.svg
-    /sem_fundo
-        icone_invert.svg
-        icone.svg
-        logo_invert.svg
-        logo.svg
-```
+### ▶️ Logos com fundo
+
+- [Logo.svg](./logos/svg/com_fundo/logo.svg)
+- [Logo Invertida.svg](./logos/svg/com_fundo/logo_invert.svg)
+- [Ícone.svg](./logos/svg/com_fundo/icone.svg)
+- [Ícone Invertido.svg](./logos/svg/com_fundo/icone_invert.svg)
+
+### 🟦 Logos sem fundo (transparente)
+
+- [Logo.svg](./logos/svg/sem_fundo/logo.svg)
+- [Logo Invertida.svg](./logos/svg/sem_fundo/logo_invert.svg)
+- [Ícone.svg](./logos/svg/sem_fundo/icone.svg)
+- [Ícone Invertido.svg](./logos/svg/sem_fundo/icone_invert.svg)
 
 ## 🧾 Tipos de Logo
 
